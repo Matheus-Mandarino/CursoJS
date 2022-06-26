@@ -1,1 +1,1 @@
-Olá, esse projeto tem alguns estudos de JavaScript
+Olá, esse projeto tem alguns dos meus estudos de JavaScript!
